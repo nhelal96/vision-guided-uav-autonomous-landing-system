@@ -1,7 +1,7 @@
 # Vision-Guided UAV Autonomous Landing System
 
 <p align="center">
-  <img src="docs/images/thumbnail.png" alt="Vision-Guided UAV Autonomous Landing System" width="650" />
+  <img src="docs/images/banner.png" alt="Vision-Guided UAV Autonomous Landing System" width="650" />
 </p>
 
 This repository implements a modular, vision-guided autonomous flight guidance and landing stack for Unmanned Aerial Vehicles (UAVs). It integrates pre-flight takeoff supervision, real-time depth map point cloud reconstruction, visual marker AprilTag tracking, and flight control state machines to enable precise landing on moving or stationary docking pads.
